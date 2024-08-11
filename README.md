@@ -2,14 +2,6 @@
 
 # Codester - Your Coding Companion
 
-![Codester Logo](asset/prview.png)
+github live : http://127.0.0.1:5500/codester-main/
 
-
-## Demo
-
-Check out the live demo [here](https://ranaiiest.github.io/codester/).
-
-## Contributing
-
-Contributions are always welcome! If you have any ideas or improvements, please feel free to submit a pull request.
 
