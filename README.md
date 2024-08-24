@@ -2,6 +2,5 @@
 
 # Codester - Your Coding Companion
 
-github live : http://127.0.0.1:5500/codester-main/
-
+github live :(https://yashkumar1508.github.io/codester/)
 
